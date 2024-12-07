@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div style="display: flex; justify-content: center; align-content: center; flex-wrap: wrap;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=k-sophia&show_icons=true&theme=tokyonight" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sophia&theme=tokyonight&layout=compact" />
+ <img height=200 align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=k-sophia&show_icons=true&theme=tokyonight" />
+ <img height=200 align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sophia&layout=donut&theme=tokyonight" />
 </div>
