@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: center; align-content: center; flex-wrap: wrap;">
- <img height=200 align="center" class="img" src="https://github-readme-stats.vercel.app/api?username=k-sophia&show_icons=true&theme=tokyonight" />
- <img height=200 align="center" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-sophia&layout=donut&theme=tokyonight" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=k-sophia&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sophia&layout=donut&theme=tokyonight"/>
+</a>
 
 ---
 Latest Blogs:
