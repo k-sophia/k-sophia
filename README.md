@@ -1,5 +1,7 @@
 # KellySophia
 
+Cybersecurity professional building hands-on experience through security projects, labs, and technical training.
+
 ### Skills
 
 - Vulnerability Assessment & Management
