@@ -2,6 +2,15 @@
 
 Cybersecurity professional building hands-on experience through security projects, labs, and technical training.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/kelly-camacho/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/@ksophia.martinez">
+    <img src="https://img.shields.io/badge/Medium-1a1b26?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
+</p>
+
 ### Skills
 
 - Vulnerability Assessment & Management
@@ -12,8 +21,6 @@ Cybersecurity professional building hands-on experience through security project
 - Risk Assessment & Security Frameworks
 
 ### Medium
-
-[Latest Articles](https://medium.com/@ksophia.martinez)
 
 * [Top Web Application Vulnerabilities: OWASP Top 10 (2021)](https://medium.com/@ksophia.martinez/top-web-application-vulnerabilities-owasp-top-10-2021-c857ca545cc9)
 * [6 Non-Technical Roles in Cybersecurity](https://medium.com/@ksophia.martinez/6-non-technical-roles-in-cybersecurity-12cde81bb585)
