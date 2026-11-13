@@ -21,9 +21,9 @@ Cybersecurity professional building hands-on experience through security project
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=k-sophia&show_icons=true&theme=tokyonight"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/?username=k-sophia&custom_title=GitHub+Stats&show_icons=true&theme=tokyonight&rank_icon=github"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-sophia&layout=donut&theme=tokyonight"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=k-sophia&layout=donut&theme=tokyonight"/>
 </a>
